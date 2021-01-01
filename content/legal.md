@@ -28,9 +28,9 @@ Grundsätzlich verarbeiten wir personenbezogene Daten nur dann automatisch, um A
 * Statuscode des Webservers
 * der Referrer 
 
-Da wir ohne dazugehörige IP diese Daten nur einem Benutzer zuordnen können, der seine Identität mittels Referrer oder User-Agenten übergibt, sehen wir kein Problem darin, diese Daten zu erfassen, um uns bei statistischen Analysen zu helfen.
+Da wir ohne dazugehörige IP diese Daten nur einem Benutzer zuordnen können, der seine Identität mittels Referrer übergibt, sehen wir kein Problem darin, diese Daten zu erfassen, um uns bei statistischen Analysen zu helfen.
 
-### Welche Daten werden gespeichert?
+### Welche Daten werden nicht gespeichert?
 
 Die IP-Adresse, von der aus die Seite abgerufen wurde, speichern wir nicht. Somit lässt sich anhand unserer Logdaten kaum ein Zusammenhang zu einzelnen Besuchern herstellen. Wir verwenden auch keine Cookies, um Benutzer zu identifizieren. Wir geben diese Daten nicht an Dritte weiter. Wir versuchen, im Rahmen der üblichen Vorsichtsmaßnahmen zur Sicherung unseres Servers zu verhindern, dass Dritte von diesen Daten Kenntnis erlangen.
 
@@ -38,4 +38,4 @@ Die IP-Adresse, von der aus die Seite abgerufen wurde, speichern wir nicht. Somi
 
 Wenn Du möchtest, dass wir irgendwelche der oben genannten gespeicherten Daten vor Ablauf der Speicherfrist löschen, bitte schicke uns eine Mail an hello@labcode.de. Wir werden Deiner Anfrage schnellstmöglich nachkommen.
 
-Auf Grundlage von [https://koeln.ccc.de/impressum/privacy](https://koeln.ccc.de/impressum/privacy)* 
+Auf Grundlage von [https://koeln.ccc.de/impressum/privacy](https://koeln.ccc.de/impressum/privacy)
