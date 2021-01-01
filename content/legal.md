@@ -21,13 +21,21 @@ hello@labcode.de
 Grundsätzlich verarbeiten wir personenbezogene Daten nur dann automatisch, um Anfragen von Dir nachzukommen, sei dies nun der Aufruf einer Webseite oder der Empfang einer E-Mail. Wir hoffen, dass es klar ist, dass wir wissen müssen, an wen wir eine Antwort schicken. Rechtliche Grundlage dafür ist die DSGVO Art. 6 Abs. 1, mit dem Grundsatz, dass wir einen guten Grund haben müssen, Deine Daten zu verarbeiten.
 
 ### Welche Daten werden gespeichert?
-**Webserver-Verbindungsdaten**: Um eventuelle Probleme an der Webseite zu beheben, die wir nicht explizit nachstellen können, werden folgende Daten von allen Besuchern gespeichert und für 30 Tage aufbewahrt:
+**Webserver-Verbindungsdaten**: Bei der Benutzung unseres Webservers speichern wir keine Benutzerdaten, anhand derer wir eine Zuordnung zu bestimmten Personen vornehmen können. Die Log-Dateien werden bereits vor der Speicherung anonymisiert. Es existieren keine nicht-anonymisierten Versionen der Zugriffsprotokolle. Um eventuelle Probleme an der Webseite zu beheben, die wir nicht explizit nachstellen können, werden folgende Daten von allen Besuchern gespeichert und für 30 Tage aufbewahrt:
 
 * Datum/Uhrzeit
 * die abgerufene Seite
 * Statuscode des Webservers
-* Browser/Betriebssystem
-* der Referer 
-* die IP-Adresse
+* der Referrer 
 
-*Mit Inspiration von [https://koeln.ccc.de/impressum/privacy](https://koeln.ccc.de/impressum/privacy)* 
+Da wir ohne dazugehörige IP diese Daten nur einem Benutzer zuordnen können, der seine Identität mittels Referrer oder User-Agenten übergibt, sehen wir kein Problem darin, diese Daten zu erfassen, um uns bei statistischen Analysen zu helfen.
+
+### Welche Daten werden gespeichert?
+
+Die IP-Adresse, von der aus die Seite abgerufen wurde, speichern wir nicht. Somit lässt sich anhand unserer Logdaten kaum ein Zusammenhang zu einzelnen Besuchern herstellen. Wir verwenden auch keine Cookies, um Benutzer zu identifizieren. Wir geben diese Daten nicht an Dritte weiter. Wir versuchen, im Rahmen der üblichen Vorsichtsmaßnahmen zur Sicherung unseres Servers zu verhindern, dass Dritte von diesen Daten Kenntnis erlangen.
+
+### Löschung der Daten
+
+Wenn Du möchtest, dass wir irgendwelche der oben genannten gespeicherten Daten vor Ablauf der Speicherfrist löschen, bitte schicke uns eine Mail an hello@labcode.de. Wir werden Deiner Anfrage schnellstmöglich nachkommen.
+
+Auf Grundlage von [https://koeln.ccc.de/impressum/privacy](https://koeln.ccc.de/impressum/privacy)* 
