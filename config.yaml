@@ -1,0 +1,20 @@
+baseURL: "https://labcode.de/"
+languageCode: "en-us"
+title: "labcode.de"
+theme: "PaperMod"
+
+params:
+  theme: auto
+  homeInfoParams:
+    Title: labcode.de
+    Content: >
+      This is the website for `labcode.de`. This domain is internally used for hostnames and services.
+
+      Maybe here comes some information about my infrastructure and services.
+
+menu:
+  main:
+    - identifier: Contact
+      name: contact
+      url: /contact/
+      weight: 10
